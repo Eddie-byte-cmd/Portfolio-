@@ -1,7 +1,4 @@
 /* Custom styles to enhance Tailwind */
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
 
 /* Smooth scrolling */
 html {
